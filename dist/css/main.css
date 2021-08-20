@@ -26,13 +26,7 @@
 }
 
 .home__name--last {
-  color: #ff652f;
   font-weight: 700;
-}
-
-.home__name:hover {
-  color: #272727;
-  cursor: pointer;
 }
 
 .menu-btn {
